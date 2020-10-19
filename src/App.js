@@ -1,8 +1,7 @@
-import React from 'react';
-import './App.css';
-import Form from './components/Form';
-import TodoList from './components/TodoList';
-
+import React from "react";
+import "./App.css";
+import Form from "./components/Form";
+import TodoList from "./components/TodoList";
 
 export default function App() {
   return (
@@ -10,9 +9,6 @@ export default function App() {
       <h1>TODO LIST</h1>
       <Form />
       <TodoList />
-      
     </div>
   );
 }
-
-  
