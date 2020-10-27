@@ -6,7 +6,7 @@ It is a To Do App built using ReactJS and Firebase.
 
 ## Demo
 
-Link 👉 https://pensive-shockley-5c0457.netlify.app/
+Link 👉 https://dreamy-mcclintock-c13cf8.netlify.app/
 
 ## Screenshot
 
